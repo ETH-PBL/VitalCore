@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: C:\Users\schilkp\Desktop\vitalcore_hardware\VC_NRF5340\PCB\VC_NRF5340.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=vc_nrf5340-roundholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=vc_nrf5340-slotholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Int1 (Sign)_Blind_Vias|DrillFile=vc_nrf5340-roundholes-plated.tx3|DrillLayers=gtl,g1
+LayersSetName=Int4 (Sign)_Bot_Blind_Vias|DrillFile=vc_nrf5340-roundholes-plated.tx4|DrillLayers=g4,gbl

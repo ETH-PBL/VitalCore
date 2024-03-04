@@ -1,0 +1,39 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: VC_NRF5340.PcbDoc   3/4/2024  2:21:05 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : VC_NRF5340-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : VC_NRF5340-SlotHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.15mm (6mil)                                             Round             160       PTH        181.15mm (7.13inch)
+T2      0.4mm (16mil)                                             Round             16        PTH        13.25mm (0.52inch)
+T3      0.65mm (26mil)                                            Round             10        PTH        11.43mm (0.45inch)
+T4      0.7mm (28mil)                                             Slot              4         PTH        38.73mm (1.52inch)
+T5      1mm (39mil)                                               Round             6         PTH        12.70mm (0.50inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              196
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              196
+MicroVia : Top Layer to Int1 (Sign)
+ASCII Plated RoundHoles File : VC_NRF5340-RoundHoles-Plated.TX3
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.15mm (6mil)                                             Round             88        PTH        99.96mm (3.94inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              88
+MicroVia : Int4 (Sign) to Bottom Layer
+ASCII Plated RoundHoles File : VC_NRF5340-RoundHoles-Plated.TX4
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.15mm (6mil)                                             Round             37        PTH        68.22mm (2.69inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              37
+----------------------------------------------------------------------------------------------------------------------------------
+MicroVia Totals                                                                     125
+
+Total Processing Time (hh:mm:ss) : 00:00:01

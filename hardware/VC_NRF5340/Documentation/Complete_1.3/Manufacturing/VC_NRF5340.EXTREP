@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: VC_NRF5340.GBR   3/4/2024  2:21:02 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.G1                 Int1 (Sign)                             
+.G2                 Int2 (GND)                              
+.G3                 Int3 (PWR)                              
+.G4                 Int4 (Sign)                             
+.GBL                Bottom Layer                            
+.GBS                Board Layer Stack Bottom Solder         
+.GBP                Bottom Paste                            
+.GBO                Board Layer Stack Bottom Overlay        
+.GM11               Board Shape                             
+------------------------------------------------------------------------------------------

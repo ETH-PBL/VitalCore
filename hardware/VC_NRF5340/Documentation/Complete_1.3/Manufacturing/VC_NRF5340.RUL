@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\schilkp\Desktop\vitalcore_hardware\VC_NRF5340\PCB\VC_NRF5340.PcbDoc
+RuleKind=Width|RuleName=Width_WaiveLogo|Scope=Board|Minimum=99999.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_Vias|Scope=Board|Minimum=4.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=2.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.01
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
