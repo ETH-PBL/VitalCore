@@ -12,7 +12,7 @@ A Self-contained, Miniaturized, BLE-enabled Embedded Platform for Low-Power, Wea
   <img src="./assets/paper.jpg" width="49%" />
   <img src="./assets/lego.jpg" width="49%" />
 </p>
-Pictures: Pictures: Frank K. Gürkaynak, 2022
+Pictures: Frank K. Gürkaynak, 2022
 
 ## Quick Links
 
