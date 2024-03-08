@@ -17,6 +17,7 @@ Pictures: Frank K. Gürkaynak, 2022
 ## Quick Links
 
  - 📄 [Full Documentation](./hardware/VC_NRF5340/Documentation/Complete_1.3/VC_NRF5340_FULL_DOC.PDF)
+ - 🌍 [Interactive HTML BOM](./hardware/VC_NRF5340/Documentation/Complete_1.3/VC_NRF5340-Complete.html)
  - 📦 [Gerbers](./hardware/VC_NRF5340/Documentation/Complete_1.3/Manufacturing)
  - 📦 [PnP Files](./hardware/VC_NRF5340/Documentation/Complete_1.3/PickAndPlace)
  - ⚙️  [Altium Project](./hardware/VC_NRF5340/)
