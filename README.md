@@ -110,7 +110,7 @@ projects are closed & re-opened, or Altium is restarted.
 
 Examples of VitalCore-based projects:
 
-### TinyssimoRadar:
+### [TinyssimoRadar](https://github.com/ETH-PBL/TinyssimoRadar):
 In-Ear Hand Gesture Recognition with Ultra-Low Power mmWave Radars.
 
 <p align="center">
