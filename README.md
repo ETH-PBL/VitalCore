@@ -4,14 +4,13 @@ Philipp Schilk, ETHZ D-ITET PBL
 
 A Self-contained, Miniaturized, BLE-enabled Embedded Platform for Low-Power, Wearable, and Hearable Applications.
 
-<p align="center">
-  <img src="./assets/array_on_coin_master.svg" width="70%"/>
-</p>
-
 <p float="center" align="center">
   <img src="./assets/paper.jpg" width="49%" />
   <img src="./assets/lego.jpg" width="49%" />
+  <img src="./assets/vitalcore_paper.jpg" width="49%"/>
+  <img src="./assets/array_on_coin_master.svg" width="49%"/>
 </p>
+
 Pictures: Frank K. Gürkaynak, 2022
 
 ## Quick Links
