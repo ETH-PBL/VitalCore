@@ -126,14 +126,60 @@ In-Ear Hand Gesture Recognition with Ultra-Low Power mmWave Radars.
 
 ## License and Attribution
 
-Published under GNU GPLv3 license.
+Published under the GNU GPLv3 license.
 
-**Attribution information will follow shortly**
+If you find VitalCore useful, we would appreciate if you cite one of the following papers:
 
+📚 [Andrea Ronco, Philipp Schilk, Michele Magno, "TinyssimoRadar: In-Ear Hand Gesture Recognition with Ultra-Low Power mmWave Radars", *IoTDI'24*, 2024.](https://ieeexplore.ieee.org/abstract/document/10562162)
+```bibtex
+@inproceedings{TinyssimoRadar,
+  author={Ronco, Andrea and Schilk, Philipp and Magno, Michele},
+  booktitle={2024 IEEE/ACM Ninth International Conference on Internet-of-Things Design and Implementation (IoTDI)}, 
+  title={TinyssimoRadar: In-Ear Hand Gesture Recognition with Ultra-Low Power mmWave Radars}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={192-202},
+  doi={10.1109/IoTDI61053.2024.00021}
+}
+```
 
+📚 [Philipp Schilk, Niccolò Polvani, Andrea Ronco, Milos Cernak, Michele Magno, "In-Ear-Voice: Towards Milli-Watt Audio Enhancement With Bone-Conduction Microphones for In-Ear Sensing Platforms", *IoTDI'23*, 2023.](https://dl.acm.org/doi/abs/10.1145/3576842.3582365#)
+
+```bibtex
+@inproceedings{InEarVoice,
+  author = {Schilk, Philipp and Polvani, Niccol\`{o} and Ronco, Andrea and Cernak, Milos and Magno, Michele},
+  booktitle = {Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and Implementation},
+  title = {In-Ear-Voice: Towards Milli-Watt Audio Enhancement With Bone-Conduction Microphones for In-Ear Sensing Platforms},
+  year = {2023},
+  isbn = {9798400700378},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3576842.3582365},
+  doi = {10.1145/3576842.3582365},
+  pages = {1–12},
+  numpages = {12},
+  series = {IoTDI '23}
+}
+```
+
+📚 [Philipp Schilk, Kanika Dheman, Michele Magno,"VitalPod: A Low Power In-Ear Vital Parameter Monitoring System", *WiMob'22*, 2022.](https://ieeexplore.ieee.org/abstract/document/9941646)
+```bibtex
+@inproceedings{VitalPod,
+  author={Schilk, Philipp and Dheman, Kanika and Magno, Michele},
+  booktitle={2022 18th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)}, 
+  title={VitalPod: A Low Power In-Ear Vital Parameter Monitoring System}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={94-99},
+  doi={10.1109/WiMob55322.2022.9941646}
+}
+```
+
+---
 ```
 TODOs:
- - Radar paper attribution + link.
  - FW template.
  - Pack template.
 ```
