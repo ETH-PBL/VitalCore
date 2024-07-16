@@ -176,10 +176,3 @@ If you find VitalCore useful, we would appreciate if you cite one of the followi
   doi={10.1109/WiMob55322.2022.9941646}
 }
 ```
-
----
-```
-TODOs:
- - FW template.
- - Pack template.
-```
